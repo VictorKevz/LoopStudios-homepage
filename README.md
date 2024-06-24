@@ -14,7 +14,7 @@ This repository contains the solution to the [LoopStudios Landing Page Challenge
 
 ## Live Demo
 
-Check out the live demo of the project [here](https://victorkevz.github.io/LoopStudios-homepage).
+Check out the live demo of the project [here](https://victorkevz.github.io/LoopStudios-homepage/).
 
 ## Features
 
